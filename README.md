@@ -1,6 +1,3 @@
 ## CET HPC User Help
-1. test
-2. test2
-### small hjeading
-- tets3
-- test4
+1. To keep the container in back ground
+```Instead of -it use -t -d  ```
